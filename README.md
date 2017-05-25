@@ -1,4 +1,4 @@
-# Digital NHS National Identity logo kit
+# Skecth NHS National Identity logo kit for digital
 
 Logo template kit for digital NHS national identity (sketch file)
 
